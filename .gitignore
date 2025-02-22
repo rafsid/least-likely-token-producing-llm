@@ -1,2 +1,4 @@
 /outputs
 /_unsloth_temporary_saved_buffers
+/lora_model
+/unsloth_compiled_cache/*
